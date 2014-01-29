@@ -15,7 +15,7 @@ using namespace std;
 
 int main() {
 	double OLhw = 0; // 99
-	double OLtest = 0; // 97
+	double OLtest = 0; // 95
 	double ICtest1 = 0; // 77.5
 	double ICtest2 = 0; // 92.5
 	double ICtest3;
